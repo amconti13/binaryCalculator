@@ -1,0 +1,73 @@
+------------------------------------------------------------------
+Arianna Conti					 2016-09-14
+CSCI 3351					 Binary Calculator
+------------------------------------------------------------------
+This program is a calculator for binary numbers.
+
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 00000010 + 00000010
+Answer: 00000100
+Enter any key to do another calculation, or enter x to exit.: 
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 00000110 - 00000001
+Answer: 00000101
+Enter any key to do another calculation, or enter x to exit.: 
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 00000010 * 00000010
+Answer: 00000100
+Enter any key to do another calculation, or enter x to exit.: 
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 00001001 / 00000010
+This program does not output fractional values (Eg: 0.25).
+Enter any key to do another calculation, or enter x to exit.: 
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 01111111 + 01111111
+Overflow has occurred, cannot calculate.
+Enter any key to do another calculation, or enter x to exit.: 
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 00000001 - 01111111
+Answer: 10000010
+Enter any key to do another calculation, or enter x to exit.: 
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 01111111 * 01111111
+Overflow has occurred, cannot calculate.
+Enter any key to do another calculation, or enter x to exit.: 
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 00000000 - 00001000
+Answer: 11111000
+Enter any key to do another calculation, or enter x to exit.: 
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 10101010 / 00000000
+Cannot divide by 0
+Enter any key to do another calculation, or enter x to exit.: 
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 00000000 = 00000000
+Invalid operator
+Enter any key to do another calculation, or enter x to exit.: 
+
+Please write numbers in two's complement 8-bit form and choose
+x, -, *, / as the operators. (Eg: 00000000 + 11111111)
+Please input operation: 11111100 + 11111110
+Answer: 11111010
+Enter any key to do another calculation, or enter x to exit.: x
+Ariannas-MacBook-Pro:binaryCalculator Conti$ 
